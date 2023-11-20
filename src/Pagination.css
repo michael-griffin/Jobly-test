@@ -1,0 +1,9 @@
+.Pagination button:disabled {
+  background-color: grey;
+}
+
+
+.Pagination .currentPage {
+  background-color: #00008B;
+  color: white;
+}
