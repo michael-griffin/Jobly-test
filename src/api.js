@@ -1,5 +1,5 @@
 const BASE_URL = process.env.REACT_APP_BASE_URL || "http://localhost:3001";
-console.log("Base url is: ", BASE_URL);
+console.log("Base url is v2: ", BASE_URL);
 
 /** API Class.
  *
